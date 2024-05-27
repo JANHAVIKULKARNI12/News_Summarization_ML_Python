@@ -37,3 +37,4 @@ Acknowledgements
 Newspaper3k
 TextBlob
 NLTK
+<img width="1201" alt="Screenshot 2024-05-27 at 6 20 54 PM" src="https://github.com/JANHAVIKULKARNI12/News_Summarization_ML_Python/assets/90956745/af1de033-872a-4aef-bb53-5f647853600c">
